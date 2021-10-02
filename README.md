@@ -3,7 +3,6 @@
 - 👀 I’m interested in DevOps:cloud: and Web Development:globe_with_meridians:
 - 🌱 I’m currently learning :globe_with_meridians:Web Development
 - 💞️ I’m looking to collaborate on DevOps and Web Development projects 
-- 📫 Reach me at :email: athar.22012000@gmail.com
 - :zap: Fun Fact: I love playing PC games and photography
 ### CONNECT WITH ME:
 
