@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharshah1&label=Profile%20views&color=0e75b6&style=flat" alt="atharshah1" /> </p>
 
-- 🔭 I just started working on **AI art generator**
+- 🔭 I just started working on **My portfolio**
 
 - 🌱 I’m currently learning **MERN stack**
 
