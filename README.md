@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharshah1&label=Profile%20views&color=0e75b6&style=flat" alt="atharshah1" /> </p>
 
-- 🔭 I just started working on **My portfolio**
+- 🔭 I just started working on **My DevOps course**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Kubernetes, AWS, Docker, Shell scripting**
+- 💬 Ask me about **Kubernetes, AWS, Docker, Shell scripting, Terraform**
 
 - 📫 How to reach me **athar.22012000@gmail.com**
 
