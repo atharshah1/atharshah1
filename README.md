@@ -5,13 +5,13 @@
 
 - 🔭 I just started working on **My DevOps course**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **openstack**
 
 - 💬 Ask me about **Kubernetes, AWS, Docker, Shell scripting, Terraform**
 
 - 📫 How to reach me **athar.22012000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p-6pssaTA4vJuubbvYT3EfuDmF-cz5M1/view?usp=share_link](https://drive.google.com/file/d/1p-6pssaTA4vJuubbvYT3EfuDmF-cz5M1/view?usp=share_link)
+- 📄 Read my Blogs [myBlogs](https://medium.com/@athar.22012000)
 
 - ⚡ Fun fact **I think I have a potential to become Tanmay Bhat as well😜**
 
