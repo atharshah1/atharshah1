@@ -47,18 +47,6 @@
 <hr/>
 
 <p align="center">
-  <a href="https://portfolio-dun-two-9amq89skwj.vercel.app/" target="_blank">
-    <img 
-      src="https://media.licdn.com/dms/image/v2/D4D03AQFd_Sh8EpVLWQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1680151399193"
-      alt="atharshah1"
-      width="200"
-      height="200"
-      style="border-radius:50%;"
-    />
-  </a>
-</p>
-
-<p align="center">
   👤 <a href="https://portfolio-dun-two-9amq89skwj.vercel.app/" target="_blank">
     <strong>atharshah1</strong>
   </a>
