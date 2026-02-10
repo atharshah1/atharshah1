@@ -44,6 +44,8 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 </p>
 
+
+<a href="https://www.buymeacoffee.com/atharshah1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=atharshah1&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 <hr/>
 
 <p align="center">
